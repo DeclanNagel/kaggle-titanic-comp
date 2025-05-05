@@ -2,14 +2,14 @@
 
 This is my submission to the Kaggle Titanic: Machine Learning from Disaster competition.
 
-## 🎯 Objective
+## Objective
 Predict which passengers survived the Titanic shipwreck using classification models based on passenger data.
 
-## ✅ Model Performance
+## Model Performance
 - **Model Used:** Random Forest Classifier
 - **Test Accuracy (Kaggle score):** **73.9%**
 
-## 🔍 Features Used
+## Features Used
 The following features were selected for model training:
 - `Pclass` (Ticket class)
 - `Sex`
